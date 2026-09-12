@@ -34,4 +34,4 @@ A simple, responsive web app that converts temperature values between Celsius, F
 Open `index.html` in any web browser — no installation or build steps required.
 
 ## Screenshots
-*(Add a screenshot of the working app here before submitting)*
+![Screenshot](Screenshot.png)
